@@ -1,1 +1,9 @@
 # To-Do List
+git add .
+git commit -m "Complete Git lesson"
+
+git add .
+git commit -m "Review HTML basics"
+
+git add .
+git commit -m "Start JavaScript exercises"
